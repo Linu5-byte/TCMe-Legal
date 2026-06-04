@@ -2,7 +2,7 @@
 
 Effective date: June 4, 2026
 
-[Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [Account Deletion](account-deletion.md)
+[Privacy Policy](privacy-policy.html) | [Terms of Service](terms-of-service.html) | [Account Deletion](account-deletion.html)
 
 TCMe is a close-friends social app. This Privacy Policy explains what information TCMe collects, why it is used, who can see it, and what happens when you delete your account.
 
@@ -86,7 +86,7 @@ If push notifications are implemented, TCMe will also delete push tokens associa
 
 After account deletion, TCMe signs you out.
 
-For more detail, see [Account Deletion Information](account-deletion.md).
+For more detail, see [Account Deletion Information](account-deletion.html).
 
 ## Data We Do Not Collect
 

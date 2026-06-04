@@ -2,7 +2,7 @@
 
 Effective date: June 4, 2026
 
-[Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [Account Deletion](account-deletion.md)
+[Privacy Policy](privacy-policy.html) | [Terms of Service](terms-of-service.html) | [Account Deletion](account-deletion.html)
 
 These Terms of Service govern your use of TCMe. By using TCMe, you agree to these terms.
 
@@ -20,7 +20,7 @@ You must be allowed to use TCMe under the laws of your country or region. If you
 
 You are responsible for your account and for keeping your password secure. You must provide accurate account information and may not impersonate another person.
 
-You may delete your account inside the app. TCMe requires password confirmation before account deletion. For more information, see [Account Deletion Information](account-deletion.md).
+You may delete your account inside the app. TCMe requires password confirmation before account deletion. For more information, see [Account Deletion Information](account-deletion.html).
 
 ## Your Content
 
@@ -66,7 +66,7 @@ Reporting does not automatically remove a friendship or hide content unless TCMe
 
 ## Account Deletion
 
-When you delete your account, TCMe removes or deletes account-related data as described in the [Privacy Policy](privacy-policy.md) and [Account Deletion Information](account-deletion.md), including profile data, posts, owned uploaded images, certain messages, friendships, friend requests, notifications, and local app cache.
+When you delete your account, TCMe removes or deletes account-related data as described in the [Privacy Policy](privacy-policy.html) and [Account Deletion Information](account-deletion.html), including profile data, posts, owned uploaded images, certain messages, friendships, friend requests, notifications, and local app cache.
 
 Some safety records, such as reports, may be retained in anonymized or limited form for moderation, legal, or safety purposes.
 

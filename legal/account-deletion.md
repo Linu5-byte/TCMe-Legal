@@ -2,7 +2,7 @@
 
 Effective date: June 4, 2026
 
-[Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [Account Deletion](account-deletion.md)
+[Privacy Policy](privacy-policy.html) | [Terms of Service](terms-of-service.html) | [Account Deletion](account-deletion.html)
 
 This page explains how account deletion works in TCMe.
 
