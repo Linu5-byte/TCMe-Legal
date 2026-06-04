@@ -1,10 +1,12 @@
 # TCMe Privacy Policy
 
-Effective date: [Insert Date]
+Effective date: June 4, 2026
+
+[Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md) | [Account Deletion](account-deletion.md)
 
 TCMe is a close-friends social app. This Privacy Policy explains what information TCMe collects, why it is used, who can see it, and what happens when you delete your account.
 
-Contact: [tcme.support@gmail.com]
+Contact: tcme.support@gmail.com
 
 ## Information We Collect
 
@@ -84,6 +86,8 @@ If push notifications are implemented, TCMe will also delete push tokens associa
 
 After account deletion, TCMe signs you out.
 
+For more detail, see [Account Deletion Information](account-deletion.md).
+
 ## Data We Do Not Collect
 
 TCMe does not collect financial information, health data, address book contacts, browsing history, search history, advertising identifiers, analytics tracking data, or precise location data.
@@ -91,4 +95,3 @@ TCMe does not collect financial information, health data, address book contacts,
 ## Changes to This Policy
 
 We may update this Privacy Policy as TCMe changes. If we make material changes, we will update the effective date and, where appropriate, notify users in the app.
-
